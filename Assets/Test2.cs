@@ -9,8 +9,11 @@ namespace DefaultNamespace
         private void Start()
         {
             id = new UserId(1);
-            var t = id.AsPrimitive();
+          
+            var id2 =id+id;
+            var t = id2.AsPrimitive();
             Debug.Log(t);
+            Debug.Log(id2);
         }
     }
 }
