@@ -1,4 +1,4 @@
-Minimal sample to suuport SourceGenerator in Unity3d 
+Minimal sample to support SourceGenerator in Unity3d 
 
 Notes:
  - Generator.dll should be in root of Assets Folder
